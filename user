@@ -1,0 +1,65 @@
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2hgsqhh.jpg" group-title="Local",RCTI
+http://202.80.222.130/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/x29wr6.jpg" group-title="Local",GTV
+http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/302qbzk.jpg" group-title="Local",MNCTV
+http://202.80.222.130/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/28178n6.jpg" group-title="Local",iNews
+http://202.80.222.130/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/n2ftlk.jpg" group-title="Local",TRANS TV
+http://202.80.222.130/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/4iy6ap.jpg" group-title="Local",SCTV
+http://202.80.222.130/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/24zapp1.jpg" group-title="Local",TVONE
+http://202.80.222.130/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/21abjvb.jpg" group-title="Local",INDOSIAR
+http://202.80.222.130/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/30cac7m.jpg" group-title="Local",METROTV
+http://202.80.222.130/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/fjoj1j.jpg" group-title="Local",TRANS 7
+http://202.80.222.130/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/hwwweq.jpg" group-title="Local",ANTV
+http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/3096dtz.jpg" group-title="Local",TVRI
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/ezfl2u.jpg" group-title="Local",NET.
+http://202.80.222.130/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/a5axzk.jpg" group-title="Local",KOMPAS TV
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/oi6bs8.jpg" group-title="Local",JAKARTA GLOBE NEWS
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/5b4fpw.jpg" group-title="Local",RTV
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2ywfiug.jpg" group-title="Local",BERITA SATU
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/30kexpi.jpg" group-title="Local",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/332v406.jpg" group-title="Local",JAKTV
+http://202.80.222.130/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2zs0bxc.jpg" group-title="Local",JTV
+http://202.80.222.130/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2prz5nc.jpg" group-title="Local",BALI TV
+http://202.80.222.130/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/anehzt.jpg" group-title="Local",DAAI TV
+http://rr2.dens.tv/s/s13/index2.m3u8

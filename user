@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/2hgsqhh.jpg" group-title="Local",RCTI
-http://202.80.222.130/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+https://edge.okezone.com/live/rctioke.m3u8
 
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/x29wr6.jpg" group-title="Local",GTV
 http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com

@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-logo="" group-title="Education",History HD
 
 
-#EXTINF:-1 tvg-logo="" group-title="Education",CGTN
-
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/58z06.jpg" group-title="Education",CGTN
+http://rr2.dens.tv/s/s20/index2.m3u8
 
 #EXTINF:-1 tvg-logo="http://oi66.tinypic.com/a0dumv.jpg" group-title="Education",National Geographic
 http://livestream.biznetvideo.net/biznet_ngc/_definst_/stream_ngc/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=7uN8irTYbg4krqClT-fumw597nysiQLTedMw2_3HXq8XMkPGnw_lsCxqZx7OHAcc

@@ -52,9 +52,6 @@ http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=0
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/1zn77gy.jpg" group-title="Local",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/4k7hao.jpg" group-title="Local",O-Channel
-https://kmklive-lh.akamaihd.net/i/ochannel_ta_regular@94478/master.m3u8?hdnts=st=1539896171~exp=1539896221~acl=/i/*~hmac=b6e9e63fa84741c88c4418baee928336d17ac05fa3c4d456b97857ee688bddda
-
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/71itt2.jpg" group-title="Local",DAAI TV
 http://rr2.dens.tv/s/s13/index2.m3u8
 

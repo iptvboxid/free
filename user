@@ -72,3 +72,20 @@ http://213.59.128.162:9999/play/Boomerang
 http://198.98.58.76:1935/live/est/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://oi63.tinypic.com/wso4fs.jpg" group-title="kids",Spacetoon
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/14xe9hh.jpg" group-title="Sports",TVRI Sport-HD
+http://rr2.dens.tv/s/s48/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/wl945h.jpg" group-title="Sports",Fox Sports 1
+http://latino-webtv.com:2082/livexd3/101_.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/k2bz0g.jpg" group-title="Sports",Fox Sports 2
+http://latino-webtv.com:2082/livexd3/103_.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/2vnriic.jpg" group-title="Sports",Fox Sports 3
+http://latino-webtv.com:2082/livexd3/109_.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/wwllp3.jpg" group-title="Sports",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/11j9q1c.jpg" group-title="Sports",NBA
+http://23.237.22.82:8086/udp/127.0.0.1:56052
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/p7vw4.jpg" group-title="Sports",Rai Sport
+https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8?sd=10&rebase=on
+

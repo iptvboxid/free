@@ -48,4 +48,25 @@ http://livestream.biznetvideo.net/biznet_lifestyle/_definst_/stream_lifestyle/pl
 http://210.210.155.35/session/710a770c-3c30-11e8-b9cb-c81f66f89318/qwr9ew/s/s10/index1.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/iw88ll.jpg" group-title="kids",Biznet Home Kids
+http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/2ikwgax.jpg" group-title="kids",Baby TV
+http://119.59.125.74/stream/totnew.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
+#EXTINF:-1 tvg-logo="http://oi65.tinypic.com/2mqpw76.jpg" group-title="kids",Cartoon Club
+http://119.59.125.74/stream/totnew.php?channel_id=860605f7e16d4c6cacef72ef02ffa2c1
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/50jn8n.jpg" group-title="Kids",Da Vinci
+http://rr.dens.tv/h/h01/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/xdtcmo.jpg" group-title="Kids",MY Kids
+http://rr2.dens.tv/s/s30/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2pqmbnl.jpg" group-title="Kids",Smart Cinema
+http://103.14.127.35:1935/smartcinema/smartcinema.stream/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/28txuop.jpg" group-title="Kids",Kids Central
+http://bcoveliveios-i.akamaihd.net/hls/live/632425/5725327446001_03/kidcentral_simultv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/nmhqg1.jpg" group-title="kids",Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 tvg-logo="http://oi64.tinypic.com/9a22d0.jpg" group-title="kids",Boomerang
+http://213.59.128.162:9999/play/Boomerang
+#EXTINF:-1 tvg-logo="http://oi68.tinypic.com/f358h1.jpg" group-title="kids",Toonami
+http://198.98.58.76:1935/live/est/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/wso4fs.jpg" group-title="kids",Spacetoon
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/index.m3u8

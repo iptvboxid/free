@@ -58,6 +58,8 @@ http://119.59.125.74/stream/totnew.php?channel_id=860605f7e16d4c6cacef72ef02ffa2
 http://rr.dens.tv/h/h01/index2.m3u8
 #EXTINF:-1 tvg-logo="http://oi68.tinypic.com/xdtcmo.jpg" group-title="Kids",MY Kids
 http://rr2.dens.tv/s/s30/index2.m3u8
+#EXTINF:-1 tvg-logo="http://oi63.tinypic.com/24xkklw.jpg" group-title="Kids",Animax
+http://video7.stream.mx:1935/raxatv/raxatv/index.m3u8
 #EXTINF:-1 tvg-logo="http://oi67.tinypic.com/2pqmbnl.jpg" group-title="Kids",Smart Cinema
 http://103.14.127.35:1935/smartcinema/smartcinema.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://oi64.tinypic.com/28txuop.jpg" group-title="Kids",Kids Central
